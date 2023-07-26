@@ -3,9 +3,6 @@ This repository contains MATLAB code written by A-Talebifard for reading GPS dat
 The code reads in a RINEX file using the uigetfile function, and then extracts GPS data from the file using the GPSfileread function.
 The extracted data is stored in a table format.
 
-## Getting Started
-To use this code, you will need MATLAB installed on your computer. You can download MATLAB from the MathWorks website ↗.
-
 ## Usage
 To use this code, follow these steps:
 
